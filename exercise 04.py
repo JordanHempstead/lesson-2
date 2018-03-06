@@ -1,3 +1,4 @@
+#Jordan Hempstead - Python - Lesson 02 - Exercise 04
 width = 17
 height = 12.0
 width//2
